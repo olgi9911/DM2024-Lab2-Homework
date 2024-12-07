@@ -1,0 +1,7 @@
+dm-2024-isa-5810-lab-2-homework/
+results*/
+model*/
+*.pkl
+train_dataset/
+test_dataset/
+.ipynb_checkpoints/
